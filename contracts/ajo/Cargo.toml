@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Soroban Ajo Contributors"]
 license = "MIT"
 description = "Rotational savings and credit association (ROSCA) on Stellar Soroban"
-repository = "https://github.com/yourusername/soroban-ajo"
+repository = "https://github.com/Christopherdominic/soroban-ajo"
 readme = "README.md"
 
 [lib]
